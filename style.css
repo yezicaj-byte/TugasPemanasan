@@ -319,8 +319,12 @@ section {
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
-  z-index: 10;
+  z-index: 100;
   overflow: visible;
+}
+
+.arrow-proj {
+  margin-left: 77rem;
 }
 
 .details-container {
