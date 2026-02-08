@@ -48,6 +48,10 @@
     display: none;
   }
 
+  .arrow-proj{
+    display: none;
+  }
+
   section,
   .section-container {
     height: fit-content;
