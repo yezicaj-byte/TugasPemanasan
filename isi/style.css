@@ -6,6 +6,8 @@
 body {
   font-family: "Poppins", sans-serif;
   cursor: none;
+  position: relative;
+  overflow-x: hidden;
 }
 
 .cursor {
@@ -275,7 +277,6 @@ section {
   background: rgb(53, 53, 53);
   color: white;
 }
-
 
 .btn2 {
   background: none;
